@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="260.134 -1.41 693.867 549.349">
+  <g transform="matrix(0.948571, 0, 0, 0.948571, 263.988682, 6.048502)">
+    <g class="entity" data-entity="Patient" data-source-line="30" data-uid="ent0002" id="entity_Patient">
+      <rect fill="#ECF0F1" height="47.9375" rx="2.5" ry="2.5" style="stroke:#2C3E50;stroke-width:1.5;" width="59.8491" x="220.37" y="14.6542"/>
+      <text fill="#7F8C8D" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="42.5981" x="228.9955" y="24.8647" style="white-space: pre;"> </text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="45.8491" x="227.37" y="41.5258" style="white-space: pre;">Patient</text>
+      <line style="stroke:#2C3E50;stroke-width:1.5;" x1="221.37" x2="279.2191" y1="46.5917" y2="46.5917"/>
+    </g>
+    <g class="entity" data-entity="Doctor" data-source-line="31" data-uid="ent0003" id="entity_Doctor">
+      <rect fill="#ECF0F1" height="47.9375" rx="2.5" ry="2.5" style="stroke:#2C3E50;stroke-width:1.5;" width="57.5068" x="495.54" y="260.8042"/>
+      <text fill="#7F8C8D" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="42.5981" x="502.9943" y="271.0147" style="white-space: pre;"> </text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="43.5068" x="502.54" y="287.6758" style="white-space: pre;">Doctor</text>
+      <line style="stroke:#2C3E50;stroke-width:1.5;" x1="496.54" x2="552.0468" y1="292.7417" y2="292.7417"/>
+    </g>
+    <g class="entity" data-entity="Auth" data-source-line="32" data-uid="ent0004" id="entity_Auth">
+      <rect fill="#ECF0F1" height="63.0703" rx="2.5" ry="2.5" style="stroke:#2C3E50;stroke-width:1.5;" width="109.4307" x="315.58" y="7.0942"/>
+      <text fill="#7F8C8D" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="54.479" x="343.0558" y="17.3047" style="white-space: pre;"> </text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="95.4307" x="322.58" y="33.9658" style="white-space: pre;">Authentication</text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="48.4771" x="346.0568" y="49.0986" style="white-space: pre;">System</text>
+      <line style="stroke:#2C3E50;stroke-width:1.5;" x1="316.58" x2="424.0107" y1="54.1646" y2="54.1646"/>
+    </g>
+    <g class="entity" data-entity="AppMgmt" data-source-line="33" data-uid="ent0005" id="entity_AppMgmt">
+      <rect fill="#ECF0F1" height="63.0703" rx="2.5" ry="2.5" style="stroke:#2C3E50;stroke-width:1.5;" width="99.6362" x="200.48" y="130.1642"/>
+      <text fill="#7F8C8D" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="53.4585" x="223.5689" y="140.3747" style="white-space: pre;"> </text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="84.2969" x="208.1497" y="157.0358" style="white-space: pre;">Appointment</text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="85.6362" x="207.48" y="172.1686" style="white-space: pre;">Management</text>
+      <line style="stroke:#2C3E50;stroke-width:1.5;" x1="201.48" x2="299.1162" y1="177.2346" y2="177.2346"/>
+    </g>
+    <g class="entity" data-entity="Notif" data-source-line="34" data-uid="ent0006" id="entity_Notif">
+      <rect fill="#ECF0F1" height="63.0703" rx="2.5" ry="2.5" style="stroke:#2C3E50;stroke-width:1.5;" width="88.5913" x="195" y="376.3042"/>
+      <text fill="#7F8C8D" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="54.1138" x="212.2388" y="386.5147" style="white-space: pre;"> </text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="74.5913" x="202" y="403.1758" style="white-space: pre;">Notification</text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="48.0454" x="215.2729" y="418.3086" style="white-space: pre;">Service</text>
+      <line style="stroke:#2C3E50;stroke-width:1.5;" x1="196" x2="282.5913" y1="423.3746" y2="423.3746"/>
+    </g>
+    <g class="entity" data-entity="Dashboard" data-source-line="35" data-uid="ent0007" id="entity_Dashboard">
+      <rect fill="#ECF0F1" height="63.0703" rx="2.5" ry="2.5" style="stroke:#2C3E50;stroke-width:1.5;" width="84.7573" x="304.92" y="253.2342"/>
+      <text fill="#7F8C8D" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="62.7075" x="315.9449" y="263.4447" style="white-space: pre;"> </text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="46.8774" x="323.8599" y="280.1058" style="white-space: pre;">Clinical</text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="70.7573" x="311.92" y="295.2386" style="white-space: pre;">Dashboard</text>
+      <line style="stroke:#2C3E50;stroke-width:1.5;" x1="305.92" x2="388.6773" y1="300.3046" y2="300.3046"/>
+    </g>
+    <g class="entity" data-entity="EMR" data-source-line="36" data-uid="ent0008" id="entity_EMR">
+      <rect fill="#ECF0F1" height="63.0703" rx="2.5" ry="2.5" style="stroke:#2C3E50;stroke-width:1.5;" width="132.3013" x="398.15" y="376.3042"/>
+      <text fill="#7F8C8D" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="54.479" x="437.0611" y="386.5147" style="white-space: pre;"> </text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="118.3013" x="405.15" y="403.1758" style="white-space: pre;">Electronic Medical</text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="52.5015" x="438.0499" y="418.3086" style="white-space: pre;">Records</text>
+      <line style="stroke:#2C3E50;stroke-width:1.5;" x1="399.15" x2="529.4513" y1="423.3746" y2="423.3746"/>
+    </g>
+    <g class="entity" data-entity="Billing" data-source-line="37" data-uid="ent0009" id="entity_Billing">
+      <rect fill="#ECF0F1" height="63.0703" rx="2.5" ry="2.5" style="stroke:#2C3E50;stroke-width:1.5;" width="99.6362" x="290.48" y="499.3742"/>
+      <text fill="#7F8C8D" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="53.4585" x="313.5689" y="509.5847" style="white-space: pre;"> </text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="39.8569" x="320.3696" y="526.2458" style="white-space: pre;">Billing</text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="85.6362" x="297.48" y="541.3786" style="white-space: pre;">Management</text>
+      <line style="stroke:#2C3E50;stroke-width:1.5;" x1="291.48" x2="389.1162" y1="546.4446" y2="546.4446"/>
+    </g>
+    <g class="entity" data-entity="Pharm" data-source-line="38" data-uid="ent0010" id="entity_Pharm">
+      <rect fill="#ECF0F1" height="63.0703" rx="2.5" ry="2.5" style="stroke:#2C3E50;stroke-width:1.5;" width="78.8604" x="424.87" y="499.3742"/>
+      <text fill="#7F8C8D" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="54.479" x="437.0607" y="509.5847" style="white-space: pre;"> </text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="64.8604" x="431.87" y="526.2458" style="white-space: pre;">Pharmacy</text>
+      <text fill="#2C3E50" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="48.4771" x="440.0617" y="541.3786" style="white-space: pre;">System</text>
+      <line style="stroke:#2C3E50;stroke-width:1.5;" x1="425.87" x2="502.7304" y1="546.4446" y2="546.4446"/>
+    </g>
+    <g class="link" data-entity-1="Patient" data-entity-2="Auth" data-source-line="62" data-uid="lnk23" id="link_Patient_Auth" transform="matrix(1, 0, 0, 1, -92.898912, -4.45918)">
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="178.7876" x="118.92" y="24.6547" style="white-space: pre;">1: authenticateUser(credentials)</text>
+    </g>
+    <g class="link" data-entity-1="Auth" data-entity-2="Patient" data-source-line="63" data-uid="lnk24" id="link_Auth_Patient">
+      <path codeline="63" d="M315.21,51.4442 C303.26,51.4442 297.04,51.4442 286.48,51.4442" fill="none" id="Auth-to-Patient" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="280.48,51.4442,289.48,55.4442,285.48,51.4442,289.48,47.4442,280.48,51.4442" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="149.9932" x="113.663" y="79.748" style="white-space: pre; font-size: 11px;">2: returnAuthToken(status)</text>
+    </g>
+    <g class="link" data-entity-1="Dashboard" data-entity-2="Doctor" data-source-line="73" data-uid="lnk33" id="link_Dashboard_Doctor">
+      <path codeline="73" d="M390.14,273.4442 C422.68,273.4442 460.55,273.4442 489.12,273.4442" fill="none" id="Dashboard-to-Doctor" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="495.12,273.4442,486.12,269.4442,490.12,273.4442,486.12,277.4442,495.12,273.4442" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="143.7734" x="377.819" y="247.495" style="white-space: pre; font-size: 11px;">11: displayPatientQueue()</text>
+    </g>
+    <g class="link" data-entity-1="Doctor" data-entity-2="Patient" data-source-line="75" data-uid="lnk35" id="link_Doctor_Patient">
+      <path codeline="75" d="M514.71,260.6742 C514.71,210.7042 514.71,100.4442 514.71,100.4442 C514.71,100.4442 263.12,100.4442 263.12,100.4442 C263.12,100.4442 263.12,86.3342 263.12,69.0542" fill="none" id="Doctor-to-Patient" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="263.12,63.0542,259.12,72.0542,263.12,68.0542,267.12,72.0542,263.12,63.0542" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="143.1128" x="465.461" y="95.425" style="white-space: pre; font-size: 11px;">13: conductConsultation()</text>
+    </g>
+    <g class="link" data-entity-1="Notif" data-entity-2="Doctor" data-source-line="69" data-uid="lnk30" id="link_Notif_Doctor">
+      <path codeline="69" d="M221.26,376.0642 C221.26,361.0842 221.26,346.4442 221.26,346.4442 C221.26,346.4442 502.52,346.4442 502.52,346.4442 C502.52,346.4442 502.52,332.3842 502.52,315.1442" fill="none" id="Notif-to-Doctor" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="502.52,309.1442,498.52,318.1442,502.52,314.1442,506.52,318.1442,502.52,309.1442" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="168.8081" x="196.73" y="357.6547" style="white-space: pre;">8: scheduleAlert(appointment)</text>
+    </g>
+    <g class="link" data-entity-1="EMR" data-entity-2="Pharm" data-source-line="78" data-uid="lnk38" id="link_EMR_Pharm">
+      <path codeline="78" d="M477.44,439.8542 C477.44,458.0842 477.44,474.8542 477.44,493.0542" fill="none" id="EMR-to-Pharm-1" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="477.44,499.0542,481.44,490.0542,477.44,494.0542,473.44,490.0542,477.44,499.0542" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="152.5122" x="324.44" y="466.6647" style="white-space: pre;">16: transmitPrescription(rx)</text>
+    </g>
+    <g class="link" data-entity-1="Patient" data-entity-2="AppMgmt" data-source-line="64" data-uid="lnk25" id="link_Patient_AppMgmt">
+      <path codeline="64" d="M228.92,62.9442 C228.92,82.1342 228.92,103.0742 228.92,123.9642" fill="none" id="Patient-to-AppMgmt" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="228.92,129.9642,232.92,120.9642,228.92,124.9642,224.92,120.9642,228.92,129.9642" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="177.6006" x="42.745" y="94.408" style="white-space: pre; font-size: 11px;">3: requestAppointment(params)</text>
+    </g>
+    <g class="link" data-entity-1="AppMgmt" data-entity-2="Patient" data-source-line="66" data-uid="lnk27" id="link_AppMgmt_Patient">
+      <path codeline="66" d="M254.57,129.6842 C254.57,108.7442 254.57,87.8342 254.57,68.7042" fill="none" id="AppMgmt-to-Patient" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="254.57,62.7042,250.57,71.7042,254.57,67.7042,258.57,71.7042,254.57,62.7042" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="145.7339" x="272.663" y="92.661" style="white-space: pre; font-size: 11px;">5: confirmBooking(details)</text>
+    </g>
+    <g class="link" data-entity-1="Patient" data-entity-2="AppMgmt" data-source-line="71" data-uid="lnk31" id="link_Patient_AppMgmt">
+      <path codeline="71" d="M237.47,62.9442 C237.47,82.1342 237.47,103.0742 237.47,123.9642" fill="none" id="Patient-to-AppMgmt-1" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="237.47,129.9642,241.47,120.9642,237.47,124.9642,233.47,120.9642,237.47,129.9642" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="191.7212" x="40.268" y="118.069" style="white-space: pre; font-size: 11px;">9: performCheckIn(appointmentId)</text>
+    </g>
+    <g class="link" data-entity-1="Patient" data-entity-2="AppMgmt" data-source-line="82" data-uid="lnk41" id="link_Patient_AppMgmt">
+      <path codeline="82" d="M246.02,62.9442 C246.02,82.1342 246.02,103.0742 246.02,123.9642" fill="none" id="Patient-to-AppMgmt-2" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="246.02,129.9642,250.02,120.9642,246.02,124.9642,242.02,120.9642,246.02,129.9642" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="194.729" x="258.168" y="112.867" style="white-space: pre; font-size: 11px;">19: scheduleFollowUp(preferences)</text>
+    </g>
+    <g class="link" data-entity-1="AppMgmt" data-entity-2="AppMgmt" data-source-line="65" data-uid="lnk26" id="link_AppMgmt_AppMgmt">
+      <path codeline="65" d="M293.48,129.8242 C293.48,121.8142 293.48,115.4442 293.48,115.4442 C293.48,115.4442 312.03,115.4442 312.03,115.4442 C312.03,115.4442 312.03,223.4442 312.03,223.4442 C312.03,223.4442 297.7,223.4442 297.7,223.4442 C297.7,223.4442 297.7,214.7242 297.7,199.6542" fill="none" id="AppMgmt-to-AppMgmt" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="297.7,193.6542,293.7,202.6542,297.7,198.6542,301.7,202.6542,297.7,193.6542" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="147.3828" x="318.03" y="167.2447" style="white-space: pre;">4: validateAvailability(slot)</text>
+    </g>
+    <g class="link" data-entity-1="AppMgmt" data-entity-2="Notif" data-source-line="67" data-uid="lnk28" id="link_AppMgmt_Notif">
+      <path codeline="67" d="M242.03,193.6242 C242.03,240.8442 242.03,322.7842 242.03,369.9642" fill="none" id="AppMgmt-to-Notif" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="242.03,375.9642,246.03,366.9642,242.03,370.9642,238.03,366.9642,242.03,375.9642" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="194.7183" x="48.516" y="277.546" style="white-space: pre; font-size: 11px;">6: initiateNotification(appointment)</text>
+    </g>
+    <g class="link" data-entity-1="AppMgmt" data-entity-2="Notif" data-source-line="83" data-uid="lnk42" id="link_AppMgmt_Notif">
+      <path codeline="83" d="M262.81,193.6242 C262.81,240.8442 262.81,322.7842 262.81,369.9642" fill="none" id="AppMgmt-to-Notif-1" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="262.81,375.9642,266.81,366.9642,262.81,370.9642,258.81,366.9642,262.81,375.9642" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="202.1787" x="59.81" y="296.0047" style="white-space: pre;">20: configureFollowUp(appointment)</text>
+    </g>
+    <g class="link" data-entity-1="Notif" data-entity-2="Patient" data-source-line="68" data-uid="lnk29" id="link_Notif_Patient">
+      <path codeline="68" d="M194.66,408.4442 C187.83,408.4442 183,408.4442 183,408.4442 C183,408.4442 183,47.4442 183,47.4442 C183,47.4442 196.27,47.4442 214.19,47.4442" fill="none" id="Notif-to-Patient" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="220.19,47.4442,211.19,43.4442,215.19,47.4442,211.19,51.4442,220.19,47.4442" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="150.5195" x="36.459" y="210.908" style="white-space: pre; font-size: 11px;">7: deliverReminder(details)</text>
+    </g>
+    <g class="link" data-entity-1="AppMgmt" data-entity-2="Dashboard" data-source-line="72" data-uid="lnk32" id="link_AppMgmt_Dashboard">
+      <path codeline="72" d="M300.38,162.4442 C305.28,162.4442 308.47,162.4442 308.47,162.4442 C308.47,162.4442 308.47,210.7042 308.47,246.9442" fill="none" id="AppMgmt-to-Dashboard" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="308.47,252.9442,312.47,243.9442,308.47,247.9442,304.47,243.9442,308.47,252.9442" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="183.8794" x="313.186" y="200.865" style="white-space: pre; font-size: 11px;">10: updateWaitlist(patientStatus)</text>
+    </g>
+    <g class="link" data-entity-1="Doctor" data-entity-2="EMR" data-source-line="74" data-uid="lnk34" id="link_Doctor_EMR">
+      <path codeline="74" d="M509.5,309.0842 C509.5,328.2742 509.5,349.2142 509.5,370.1042" fill="none" id="Doctor-to-EMR" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="509.5,376.1042,513.5,367.1042,509.5,371.1042,505.5,367.1042,509.5,376.1042" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="160.9771" x="342.555" y="339.805" style="white-space: pre; font-size: 11px;">12: retrievePatientHistory(id)</text>
+    </g>
+    <g class="link" data-entity-1="Doctor" data-entity-2="EMR" data-source-line="76" data-uid="lnk36" id="link_Doctor_EMR">
+      <path codeline="76" d="M516.48,309.0842 C516.48,328.2742 516.48,349.2142 516.48,370.1042" fill="none" id="Doctor-to-EMR-1" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="516.48,376.1042,520.48,367.1042,516.48,371.1042,512.48,367.1042,516.48,376.1042" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="183.3423" x="525.655" y="337.575" style="white-space: pre; font-size: 11px;">14: documentFindings(diagnosis)</text>
+    </g>
+    <g class="link" data-entity-1="Doctor" data-entity-2="EMR" data-source-line="77" data-uid="lnk37" id="link_Doctor_EMR">
+      <path codeline="77" d="M523.47,309.0842 C523.47,328.2742 523.47,349.2142 523.47,370.1042" fill="none" id="Doctor-to-EMR-2" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="523.47,376.1042,527.47,367.1042,523.47,371.1042,519.47,367.1042,523.47,376.1042" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="191.6567" x="524.47" y="353.8047" style="white-space: pre;">15: createPrescription(medication)</text>
+    </g>
+    <g class="link" data-entity-1="EMR" data-entity-2="Billing" data-source-line="80" data-uid="lnk39" id="link_EMR_Billing">
+      <path codeline="80" d="M411.51,439.8042 C411.51,473.0942 411.51,520.4442 411.51,520.4442 C411.51,520.4442 408.31,520.4442 396.53,520.4442" fill="none" id="EMR-to-Billing" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="390.53,520.4442,399.53,524.4442,395.53,520.4442,399.53,516.4442,390.53,520.4442" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="164.0762" x="246.51" y="487.8247" style="white-space: pre;">17: generateInvoice(services)</text>
+    </g>
+    <g class="link" data-entity-1="Billing" data-entity-2="Patient" data-source-line="81" data-uid="lnk40" id="link_Billing_Patient">
+      <path codeline="81" d="M290.42,531.4442 C240.48,531.4442 171,531.4442 171,531.4442 C171,531.4442 171,31.4442 171,31.4442 C171,31.4442 191.86,31.4442 214.32,31.4442" fill="none" id="Billing-to-Patient" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <polygon fill="#3498DB" points="220.32,31.4442,211.32,27.4442,215.32,31.4442,211.32,35.4442,220.32,31.4442" style="stroke:#3498DB;stroke-width:1.2;"/>
+      <text fill="#34495E" font-family="Arial" font-size="11" lengthAdjust="spacing" textLength="163.3887" x="7" y="313.7047" style="white-space: pre;">18: processPayment(amount)</text>
+    </g>
+  </g>
+</svg>
